@@ -19,7 +19,7 @@ Python | Javascript | C
 * API development and 3rd Party API integrations  
 * API Documentation with swagger or postman  
 * Docker and container orchestration tools  
-- Git, Github, Linux, Slack
+* Git, Github, Linux, Slack
 ## Socials
 * [Twitter](https://twitter.com/olamide1815)  
 * [Gmail](oyebamijibarakat7@gmail.com)  
