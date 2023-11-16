@@ -1,4 +1,3 @@
-### Hi there 
 ### Software Engineer || Backend Engineer
 ## About Me
 Hey There 👋! I'm Barakat Oyebamiji, As a seasoned backend software engineer, I specialize in crafting high-performing applications. My tech journey reflects a commitment to excellence and a passion for staying at the forefront of advancements. I thrive on challenges, adopting cutting-edge technologies to continually enhance my skill set. With a track record of designing scalable solutions, I'm dedicated to pushing the boundaries of backend development, ensuring seamless and innovative solutions.
