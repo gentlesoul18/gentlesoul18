@@ -10,22 +10,22 @@ Hey There 👋! I'm Barakat Oyebamiji, As a seasoned backend software engineer, 
 Python | Javascript | C 
 
 ## Skills
-Django | FastAPI | Express | Fastify
-SQLite3 | PostgreSQL | MongoDB
-MVT | REST API | GraphQL
-Docker | Deployment | Testing
+Django | FastAPI | Express | Fastify  
+SQLite3 | PostgreSQL | MongoDB  
+MVT | REST API | GraphQL  
+Docker | Deployment | Testing  
 ## Experience
-Back-end development
-MVT Architecture
-API development and 3rd Party API integrations
-API Documentation with swagger or postman
-Docker and container orchestration tools
+Back-end development  
+MVT Architecture  
+API development and 3rd Party API integrations  
+API Documentation with swagger or postman  
+Docker and container orchestration tools  
 Git, Github, Linux, Slack
 ## Socials
-[Twitter](https://twitter.com/olamide1815)
-[Gmail](oyebamijibarakat7@gmail.com)
-[Linkedin](https://www.linkedin.com/in/barakat-oyebamiji-0973001b2)
-[Whatsapp](+2348167216415)
+[Twitter](https://twitter.com/olamide1815)  
+[Gmail](oyebamijibarakat7@gmail.com)  
+[Linkedin](https://www.linkedin.com/in/barakat-oyebamiji-0973001b2)  
+[Whatsapp](+2348167216415)  
 <!--
 **gentlesoul18/gentlesoul18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
